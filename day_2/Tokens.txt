@@ -1,0 +1,49 @@
+Tokens in Python
+Definition:
+ Tokens are the smallest building blocks or units of a Python program.
+Everything you write in a Python program (like keywords, identifiers, literals, operators, etc.) is a token.
+
+Statements
+Definition:
+ A statement is an instruction that Python can execute.
+
+ Identifiers
+Definition:
+ An identifier is the name you give to variables, functions, classes, etc.
+
+ Rules for Identifiers
+   Must begin with a letter (A-Z, a-z) or underscore _
+  Can contain letters, digits (0-9), and underscores
+  Cannot start with a digit
+  Cannot use Python keywords (like if, while, class) as names
+  Case sensitive (name and Name are different)
+
+Comments
+Comments are used to describe your code and are not executed by Python.
+Single-line comment:
+Multi-line comment:
+
+ Variables
+Variables are names that store data values.(General)
+ in python variable is a name that bounds to object
+Objects are stored in heap memory
+
+Multiple Assignment
+You can assign values to multiple variables at once.
+
+Reassignment
+You can change the value of a variable anytime.
+
+ Swapping Variables
+You can swap the values of two variables easily.
+
+Deleting Variables
+You can delete a variable using the del keyword.
+
+Keywords
+Definition:
+ Keywords are predefined words that have special meanings in Python.
+ You cannot use them as variable names or identifiers.
+
+
+
