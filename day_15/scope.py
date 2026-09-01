@@ -63,3 +63,9 @@ def change_list(numbers):
 b = [10, 20, 30]
 change_list(b)
 print("Outside function:", b)
+#Lambda function
+multiply = lambda a, b: a * b
+print(multiply(6, 5))
+#Maximum
+maximum = lambda a, b: a if a > b else b
+print(maximum(10, 25))
