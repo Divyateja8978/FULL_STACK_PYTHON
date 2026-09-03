@@ -60,7 +60,6 @@ def orders():
 
     for order in order_list:
         yield order
-
-
 for order in orders():
     print("Processing:", order)
+    
